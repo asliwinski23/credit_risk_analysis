@@ -44,11 +44,11 @@ Recall: .780
 
 #### SMOTEENN
 
-Accuracy:
+Accuracy: 0.884
 
-Precision:
+Precision: 0.53
 
-Recall:
+Recall: 0.79
 
 #### Balanced Random Forest
 
