@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.csv
 
 # C extensions
 *.so
@@ -127,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/LoanStats_2019Q1.csv
